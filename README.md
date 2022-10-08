@@ -9,4 +9,7 @@ JTAG programming header exposed on J5.
 U5 Bosch BME280 environmental sensor
 
 
- 
+ ![PCB](pictures/1.png)
+ ![PCB](pictures/2.png)
+ ![PCB](pictures/3.png)
+ ![PCB](pictures/4.png)
